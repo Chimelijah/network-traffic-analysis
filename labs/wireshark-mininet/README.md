@@ -12,4 +12,4 @@ Configured a simulated Mininet network to capture and dissect ICMP data between 
 * Documentation of technical workflows for architectural clarity.
 
 ---
-*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01)*
+*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01/wireshark-b1156d7acbbc)*
