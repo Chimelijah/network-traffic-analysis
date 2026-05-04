@@ -12,4 +12,4 @@ Investigated global internet pathways by utilizing CLI tools to understand packe
 * Documentation of technical workflows for architectural clarity.
 
 ---
-*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01)*
+*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01/tracing-a-route-46c93e7c5ee4)*
