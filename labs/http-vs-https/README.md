@@ -12,4 +12,4 @@ Utilized tcpdump to capture live web traffic, exporting PCAP files into Wireshar
 * Documentation of technical workflows for architectural clarity.
 
 ---
-*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01)*
+*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01/using-wireshark-to-examine-http-and-https-traffic-76d63b12859c)*
