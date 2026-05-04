@@ -12,4 +12,4 @@ Captured local traffic to dissect Ethernet II frame headers, observing MAC addre
 * Documentation of technical workflows for architectural clarity.
 
 ---
-*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01)*
+*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01/using-wireshark-to-examine-ethernet-frames-433a32348d6a)*
