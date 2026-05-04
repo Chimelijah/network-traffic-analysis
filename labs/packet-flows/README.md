@@ -12,4 +12,4 @@ Emulated WAN topologies to analyze dynamic routing (EIGRP) and NAT while trackin
 * Documentation of technical workflows for architectural clarity.
 
 ---
-*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01)*
+*Detailed write-up available on [Medium](https://medium.com/@elijahchimera01/identifying-packet-flows-using-cisco-packet-tracer-5b294e928e59)*
